@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Berita - SMPN 1 CIBADAK</title>
+	<link rel="stylesheet" href="style2.css">
+	<link rel="icon" href="Image/logo_sekolah.png">
+</head>
+<body>
+	
+	<!-- header + menu -->
+	<header>
+			<div class="wrapper">
+				<div class="navigasi">
+					<ul class="logo">
+						<img src="Image/logo_sekolah.png" alt="">
+					</ul>
+
+					<ul class="menu">
+						<li><a href="home.html">Home</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="artikel.html">Artikel</a></li>
+						<li><a href="#">Gallery</a></li>
+						<li><a href="#">Guru</a></li>
+						<li><a href="#">Siswa</a></li>
+						<li><a href="#">Lainnya</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</div>
+
+				<div class="clear"></div>
+			</div>
+	</header>
+<!-- header + menu -->
+
+	<section>
+		<div class="wrapper">
+			<div class="content_section">
+
+				<h2>Berita</h2>
+
+				<hr>
+
+				<div class="artikel">
+					<div class="daftar_artikel">
+						<div class="judul">
+							<h4>Menumbuhkan Budaya Membaca di kalangan siswa SMPN 1 Cibadak dengan Kegiatan Gerakan Literasi Sekolah</h4>
+						</div>
+
+						<div class="gambar">
+							<img src="Image/gambar1.jpg" alt="">
+						</div>
+
+						<div class="keterangan">
+							<p>Program kegiatagn Gerakan Literasi Sekolah mulai  resmi dilaksanakan didalam lingkungan Sekolah Menengah Pertama Negeri 1 CibadakKabupaten Sukabumi, dengan dibuka oleh Bapak Kepala Sekolah setelah kegiatan upacara pada hari Senin (15/08) diantaranya seluruh keluarga besar  SMPN 1 Cibada...</p>
+						</div>
+
+						<div class="tanggal_comments_button">
+							<div class="tanggal_comments">
+								<a href="#">15 Aug 2016</a>
+								<a href="#">0 Comments</a>
+							</div>
+
+							<div class="button">
+								<button>
+									More
+								</button>
+							</div>
+						</div>
+					</div>
+
+					<div class="daftar_artikel">
+						<div class="judul">
+							<h4>Dukung Pendidikan, Intel dan Columbia Tawarkan Software Gratis</h4>
+						</div>
+
+						<div class="gambar">
+							<img src="Image/gambar2.jpg" alt="">
+						</div>
+
+						<div class="keterangan">
+							<p>Liputan6.com, Jakarta Intel bekerjasama dengan perusahaan ritel Colombia Cash & Credit (Columbia) untuk menyediakan teknologi, termasuk Personal Computer (PC) yang lebih murah dan terjangkau terutama untuk sektor pendidikan. Salah satu tujuan kerja sama ini adalah mempercepat penyebaran tekno...</p>
+						</div>
+
+						<div class="tanggal_comments_button">
+							<div class="tanggal_comments">
+								<a href="#">29 Jul 2016</a>
+								<a href="#">0 Comments</a>
+							</div>
+
+							<div class="button">
+								<button>
+									More
+								</button>
+							</div>
+						</div>
+					</div>
+
+					<div class="daftar_artikel">
+						<div class="judul">
+							<h4>You are here Mengapa Anies Baswedan Diganti?</h4>
+						</div>
+
+						<div class="gambar">
+							<img src="Image/gambar3.jpg" alt="">
+						</div>
+
+						<div class="keterangan">
+							<p>REDAKSIINDONESIA-Siapa sih yang tak kenal Prof Anies Baswedan, Menteri Pendidikan dan Kebudayaan saat ini? Dari berbagai media, siang ini namanya masuk dalam reshuffle kabinet dan akan digantikan oleh Prof Muhajir Effendy mantan Rektor Universitas Muhammadiyah Malang. Lantas apa faktor penyebab m...</p>
+						</div>
+
+						<div class="tanggal_comments_button">
+							<div class="tanggal_comments">
+								<a href="#">27 Jul 2016</a>
+								<a href="#">0 Comments</a>
+							</div>
+
+							<div class="button">
+								<button>
+									More
+								</button>
+							</div>
+						</div>
+					</div>
+
+					<div class="daftar_artikel">
+						<div class="judul">
+							<h4>Anies Diganti, Pejabat Kemendikbud Gelar Pertemuan Tertutup</h4>
+						</div>
+
+						<div class="gambar">
+							<img src="Image/gambar4.jpg" alt="">
+						</div>
+
+						<div class="keterangan">
+							<p>JAKARTA,(PR).- Menteri Pendidikan dan Kebudayaan Anies Baswedan akhirnya harus lengser, jauh sebelum masa jabatannya berakhir. Mendikbud terkena perombakan susunan kabinet yang dilakukan Presiden Joko Widodo pada Rabu 27 Juli 2016, menjelang dua tahun masa pemerintahannya.   </p>
+						</div>
+
+						<div class="tanggal_comments_button">
+							<div class="tanggal_comments">
+								<a href="#">27 Jul 2016</a>
+								<a href="#">0 Comments</a>
+							</div>
+
+							<div class="button">
+								<button>
+									More
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="artikel_kanan">
+					<div class="kotak_kanan gallery">
+						<div class="kanan_judul">
+							<h4>Gallery</h4>
+						</div>
+						<div class="artikel_content">
+
+							<div class="kotak_gambar">
+								<img src="Image/gambar6.jpg" alt="">
+							</div>
+							<div class="kotak_gambar">
+								<img src="Image/gambar7.jpg" alt="">
+							</div>
+							<div class="kotak_gambar">
+								<img src="Image/gambar7.jpg" alt="">
+							</div>
+							<div class="kotak_gambar">
+								<img src="Image/gambar8.jpg" alt="">
+							</div>	
+						</div>
+						<div class="clear"></div>
+					</div>
+					<div class="kotak_kanan">
+						<div class="kanan_judul">
+							<h4>Recent Post</h4>
+						</div>
+						<div class="artikel_content">
+							<ul>
+								<li><a href="">Menumbuhkan Budaya Membaca di kalangan siswa SMPN 1 Cibadak dengan Kegiatan Gerakan Literasi Sekolah</a></li>
+								<li><a href="">Dukung Pendidikan, Intel dan Columbia Tawarkan Software Gratis</a></li>
+								<li><a href="">You are here Mengapa Anies Baswedan Diganti?</a></li>
+								<li><a href="">Anies Diganti, Pejabat Kemendikbud Gelar Pertemuan Tertutup</a></li>
+								<li><a href="">Surat Pamitan Anies Baswedan Setelah Diganti dari Menteri Pendidikan Ini Membuat Haru Netizen</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="artikel_facebook">
+						<img src="Image/facebook.png" alt="">
+					</div>
+
+					<div class="artikel_maps">
+						<img src="Image/maps.png" alt="">
+					</div>
+				</div>
+			</div>
+
+				<div class="clear"></div>
+				<div class="slide">
+					<button><<</button>
+					<button>1</button>
+					<button>2</button>
+					<button>>></button>
+				</div>
+				<hr>
+		</div>
+	</section>
+
+
+	
+	<footer>
+		<div class="wrapper">
+
+			<div class="widget">
+
+				<div class="widget_box">
+					<ul>
+						<li><h2>Halaman Umum</h2></li>
+						<li><a href="#">Data Guru</a></li>
+						<li><a href="#">Profil Sekolah</a></li>
+					</ul>
+				</div>
+
+				<div class="widget_box">
+					<ul>
+						<h2>Contact</h2>
+						<p>
+							Jl. Siliwangi No 123, Cibadak, Cibadak, Sukabumi, Jawa Barat 43351, Indonesia, (0266)531333
+							<br>
+							<br>
+							Email : 
+							info@smpn1cibadak.sch.id
+							smpn1cbd_kabsi@yahoo.co.id
+						</p>
+					</ul>
+				</div>
+			</div>
+
+			<div class="social">
+
+				<h2>Social Link</h2>
+
+				<div class="facebook">
+					<a href="#"><img src="Icon/facebook.png" alt=""></a>
+				</div>
+
+				<div class="twitter">
+					<a href="#"><img src="Icon/twitter.png" alt=""></a>
+				</div>
+
+				<div class="googlep">
+					<a href="#"><img src="Icon/g+.png" alt=""></a>
+				</div>
+			</div>
+		</div>
+		<div class="clear"></div>
+	</footer>
+
+	<copyright>
+		<div class="background_copyright">
+			<div class="wrapper">
+				<div class="right">
+					<p>Copyright © <a href="#">SMP Negeri 1 Cibadak</a>. Server by <a href="#">IDCloudHost</a> 4 School</p>
+				</div>
+
+				<div class="left">
+					<p>
+						Powered By <a href="">IT Club SMKN 1 Cibadak</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</copyright>
+
+</body>
+</html>
