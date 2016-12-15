@@ -1,0 +1,337 @@
+*{
+		margin: 0;
+		padding: 0;
+	}
+
+@font-face{
+		src: url('font/Roboto-Regular.ttf');
+		font-family: 'roboto';
+	}
+
+/*header + menu*/
+
+	.wrapper{
+		width: 80%;
+		margin: 0 auto;
+	}
+
+	.clear{
+		clear: both;
+	}
+
+	.navigasi{
+		width: 100%;
+		background-color: #0093DD;
+		height: 100px;
+		margin-top: 80px;
+		margin-bottom: 30px; 
+	}
+
+	.navigasi li{
+		list-style: none;
+	}
+
+	.navigasi .logo{
+		float: left;
+		margin: 7px 20px 7px 20px;
+		padding-left: 0;
+	}
+
+	.navigasi .menu a{
+		text-decoration: none;
+		float: left;
+		line-height: 100px;
+		font-weight: 1000px;
+		padding: 0px 15px;
+		font-size: 16px;
+		font-family: sans-serif;
+		color: #FFFFFF;
+		transition: all .1s ease;
+		font-weight: 700;
+	}
+
+	.navigasi .menu a:hover{
+		color: #CCCCCC;
+		transition: all .1s ease;
+
+	}
+/*header + menu*/
+
+/*artikel_kiri*/
+
+	.content_section h2{
+		text-align: center;
+		font-family: sans-serif;
+		font-size: 180%;
+	}
+
+	hr{
+		border: 3px solid #CCCCCC;
+		margin: 10px 0px;
+	}
+
+	.artikel{
+		width: 60%;
+		float: left;
+	}
+
+	.daftar_artikel{
+		padding: 20px;
+	    width: 100%;
+	    background: #f2f2f2;
+	    margin-bottom: 15px;
+	    height: 500px;
+	}
+
+	.judul{
+		font-weight: normal;
+    	margin-bottom: 10px;
+    	font-family: sans-serif;
+    	font-size: 140%;
+	}
+
+	.gambar img{
+		width: 100%;
+    	height: 300px;
+    	margin-bottom: 10px;
+	}
+
+	.keterangan{
+		height: auto;
+    	margin-bottom: 20px;
+	}
+
+	.keterangan p{
+		font-size: 15px;
+    	text-shadow: .2px .2px grey;
+    	font-family: 'roboto';
+	}
+
+	.tanggal_comments_button{
+		margin: 5px 0px;
+		width: 100%;
+	}
+
+	.tanggal_comments_button a{
+		text-decoration: none;
+		padding-right: 15px;
+		color: #333;
+		font-size: 18px;
+		font-family: sans-serif;
+	}
+
+	.tanggal_comments_button a:hover{
+		color: #0093DD;
+	}
+
+	.tanggal_comments{
+		width: 50%;
+		float: left;
+	}
+
+	.button{
+		width: 50%;
+		float: right;
+	}
+
+	.button	button{
+		width: 150px;
+    	padding: 10px 0px;
+		background: #0093DD;
+		border: 3px #0093DD;
+		border-radius: 3px;
+		cursor: pointer;
+		font-family: sans-serif;
+		font-size: 15px;
+		color: #FFFFFF; 
+		float: right;
+		text-align: center;
+	}
+
+	.button button:hover{
+		background: #0082C4;
+		transition: all .3s ease;
+	}
+/*artikel_kiri*/
+
+/*artikel_kanan*/
+
+	.artikel_kanan{
+		width: 34%;
+		float: right;
+	}
+
+	.kanan_judul{
+		font-weight: normal;
+    	margin-bottom: 10px;
+    	font-family: sans-serif;
+    	font-size: 140%;
+    	padding-top: 10px;
+	}
+
+	.kotak_kanan{
+		width: 100%;
+    	margin-bottom: 25px;
+	}
+
+	.gallery{
+		background: #f2f2f2;
+		height: 365px;
+	}
+
+	.kotak_gambar{
+		width: 46%;
+	    float: left;
+	    height: 150px;
+	    margin: 1%;
+	}
+
+	.kotak_gambar img{
+		width: 100%;
+		height: 150px;
+		padding-left: 5px;
+	}
+
+	.artikel_content ul{
+		list-style: none;
+	}
+
+	.artikel_content a{
+		text-decoration: none;
+		color: #333;
+		font-size: 16px;
+    	text-shadow: .2px .2px grey;
+    	font-family: sans-serif;
+	}
+
+	.artikel_content a:hover{
+		color: #0082C4;
+		transition: all .3s ease;
+	}
+
+	.kotak_kanan ul li{
+		padding: 10px 0;
+   		border-bottom: 1px dotted #ccc;
+	}
+
+	.kotak_kanan ul li:last-child{
+		border: none;
+	}
+
+	.artikel_maps img{
+		margin-top: 20px;
+		width: 100%;
+	}
+/*artikel_kanan*/
+
+	/*footer*/
+
+	footer{
+		margin-bottom: 75px;
+	}
+
+	.widget{
+		width: 50%;
+		font-family: sans-serif;
+	}
+
+	.widget h2, .social h2{
+		font-size: 18px;
+		margin: 40px 0px 30px 0px;
+	}
+
+	.widget_box{
+		width: 48%;
+		float: left;
+	}
+
+	.widget_box a:hover{
+		color: #0093DD;
+		transition: all 0.3s ease;
+
+	}
+
+	.widget_box a{
+		font-size: 16px;
+		font-weight: bold;	
+	}
+
+
+	.widget_box p{
+		font-size: 16px;
+		font-weight: bold;
+	}
+
+	.widget ul li{
+		list-style: none;
+	}
+
+	.widget a{
+		text-decoration: none;
+		color: #000;
+	}
+
+	.social{
+		width: 46%;
+		float: right;
+		font-family: sans-serif;
+	}
+
+	.facebook, .twitter, .googlep{
+		float: left;
+		margin-right: 5px;
+	}
+
+	.background_copyright{
+		width: 100%;
+		height: 70px;
+		background-color: #282828;
+		font-size: 13px;
+		font-family: sans-serif;
+	}
+
+	.background_copyright a{
+		color: #FFF;
+		text-decoration: none;
+	}
+
+	.background_copyright a:hover{
+		color: #0093dd;
+		transition: all 0.3s ease;
+	}
+
+
+	.slide button{
+		width: 35px;
+	    height: 35px;
+	    display: block;
+	    border: 1px solid #e3e3e3;
+	    text-align: center;
+	    line-height: 35px;
+	    display: inline-block;
+	    background-color: transparent;
+	}
+
+	.slide button:hover{
+		background-color: #0093DD;
+		transition: all 0.3s ease;
+		color: #FFF;
+	}
+/*footer*/
+
+/*copyright*/
+	.right{
+		width: 50%;
+		float: left;
+		color: #FFF;
+		padding-top: 30px;
+	}
+
+	.left{
+		width: 50%;
+		float: right;
+		text-align: right;
+		color: #FFF;
+		padding-top: 30px;
+	}
+/*copyright*/
